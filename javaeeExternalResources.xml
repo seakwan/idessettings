@@ -1,0 +1,7 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="Carpa.Content" location="C:/Program Files (x86)/Microsoft Visual Studio/2017/Professional/Xml/Schemas/Carpa.Content.xsd" />
+    <resource url="Carpa.UI" location="C:/Program Files (x86)/Microsoft Visual Studio/2017/Professional/Xml/Schemas/Carpa.UI.xsd" />
+    <resource url="Carpa.V5" location="C:/Program Files (x86)/Microsoft Visual Studio/2017/Professional/Xml/Schemas/Carpa.V5.xsd" />
+  </component>
+</application>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Page xmlns="Carpa.UI" Title="标题" ActionType="${PROJECT_NAME}.#if (${FOLDER_NAME} && $FOLDER_NAME != "" )${FOLDER_NAME}.#end${NAME}Action, #if (${FOLDER_NAME} && $FOLDER_NAME != "" )${FOLDER_NAME}/#end${NAME}.js">
+  <VPanel>
+    <Label FontSize="32" BoldFont="true" Text="您好，欢迎开始 Carpa3 Web项目开发之旅 ！" />
+  </VPanel>
+</Page>

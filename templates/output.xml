@@ -1,0 +1,7 @@
+<templateSet group="output">
+  <template name="sys" value="System.out.println(&quot;$END$&quot;)" description="sys" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>
