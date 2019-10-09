@@ -310,7 +310,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1257</Count>
+          <Count>1258</Count>
         </Item>
       </Statistic>
       <Statistic Action="Disconnect">
@@ -502,7 +502,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'Application'</Description>
-          <Count>13</Count>
+          <Count>15</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'BreakPoint'">
@@ -598,7 +598,7 @@
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Application'">
@@ -606,7 +606,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'Application'</Description>
-          <Count>39</Count>
+          <Count>48</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'BaiChuanApplication'">
@@ -806,7 +806,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'Application'</Description>
-          <Count>27</Count>
+          <Count>29</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'BaiChuanApplication'">
@@ -1110,7 +1110,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop...</Description>
-          <Count>7</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Structure">
