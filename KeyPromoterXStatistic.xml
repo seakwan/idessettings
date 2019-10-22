@@ -6,7 +6,7 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'Ctrl+Alt+向左箭头'</ShortCut>
           <Description>Back</Description>
-          <Count>23</Count>
+          <Count>28</Count>
         </Item>
       </Statistic>
       <Statistic Action="Build Project">
@@ -318,7 +318,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1314</Count>
+          <Count>1319</Count>
         </Item>
       </Statistic>
       <Statistic Action="Disconnect">
