@@ -318,7 +318,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1341</Count>
+          <Count>1342</Count>
         </Item>
       </Statistic>
       <Statistic Action="Disconnect">
@@ -798,7 +798,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'TopListApplication'</Description>
-          <Count>42</Count>
+          <Count>44</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'WeiXinApplication'">
