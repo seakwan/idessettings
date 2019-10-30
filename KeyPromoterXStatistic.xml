@@ -798,7 +798,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'TopListApplication'</Description>
-          <Count>48</Count>
+          <Count>51</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'WeiXinApplication'">
@@ -1150,7 +1150,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'TopListApplication'</Description>
-          <Count>46</Count>
+          <Count>50</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'WebApplication'">
