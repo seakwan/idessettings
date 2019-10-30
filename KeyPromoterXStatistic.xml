@@ -6,7 +6,7 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'Ctrl+Alt+向左箭头'</ShortCut>
           <Description>Back</Description>
-          <Count>28</Count>
+          <Count>32</Count>
         </Item>
       </Statistic>
       <Statistic Action="Build Project">
@@ -286,7 +286,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'TopListApplication'</Description>
-          <Count>40</Count>
+          <Count>44</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'WebApplication'">
@@ -318,7 +318,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1347</Count>
+          <Count>1348</Count>
         </Item>
       </Statistic>
       <Statistic Action="Disconnect">
@@ -606,7 +606,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>835</Count>
+          <Count>836</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -798,7 +798,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'TopListApplication'</Description>
-          <Count>45</Count>
+          <Count>46</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'WeiXinApplication'">
@@ -1150,7 +1150,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'TopListApplication'</Description>
-          <Count>44</Count>
+          <Count>46</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'WebApplication'">
