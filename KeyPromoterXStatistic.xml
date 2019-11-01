@@ -366,7 +366,7 @@
           <IdeaActionID>Console.Jdbc.Execute</IdeaActionID>
           <ShortCut>'Ctrl+Enter'</ShortCut>
           <Description>Execute</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Favorites">
@@ -407,6 +407,14 @@
           <ShortCut>'Ctrl+Shift+F12'</ShortCut>
           <Description>Hide All Windows</Description>
           <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Jump to Console...">
+        <Item>
+          <IdeaActionID>Jdbc.OpenConsole.Any</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Jump to Console...</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Messages">
@@ -761,6 +769,14 @@
           <Count>15</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'SQLite - h…b [console]'... ">
+        <Item>
+          <IdeaActionID>Jdbc.RunSqlScript</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'SQLite - h…b [console]'...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'Service'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -839,6 +855,14 @@
           <ShortCut>'Alt+F10'</ShortCut>
           <Description>Show Execution Point</Description>
           <Count>17</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Source Editor">
+        <Item>
+          <IdeaActionID>Jdbc.OpenEditor.DDL</IdeaActionID>
+          <ShortCut>'Ctrl+B'</ShortCut>
+          <Description>Source Editor</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Out">
@@ -1222,7 +1246,7 @@
           <IdeaActionID>DatabaseView.SynchronizeAction</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Y'</ShortCut>
           <Description>Synchronize</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="TODO">
