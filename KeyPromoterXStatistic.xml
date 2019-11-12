@@ -1286,7 +1286,7 @@
           <IdeaActionID>Vcs.UpdateProject</IdeaActionID>
           <ShortCut>'Ctrl+T'</ShortCut>
           <Description>Update Project...</Description>
-          <Count>90</Count>
+          <Count>91</Count>
         </Item>
       </Statistic>
       <Statistic Action="VCS Operations Popup...">
