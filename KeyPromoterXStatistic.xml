@@ -513,6 +513,14 @@
           <Count>12</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rename...">
+        <Item>
+          <IdeaActionID>RenameElement</IdeaActionID>
+          <ShortCut>'Shift+F6'</ShortCut>
+          <Description>Rename...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun">
         <Item>
           <IdeaActionID>UsageView.Rerun</IdeaActionID>
