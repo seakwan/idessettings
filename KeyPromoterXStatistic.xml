@@ -334,7 +334,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1522</Count>
+          <Count>1548</Count>
         </Item>
       </Statistic>
       <Statistic Action="Disconnect">
@@ -737,6 +737,14 @@
           <Count>5</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'GatewayApplication'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'GatewayApplication'</Description>
+          <Count>17</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'JxcApplication'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -1055,6 +1063,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'ExcelUtilsTest.test'</Description>
           <Count>9</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'GatewayApplication'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'GatewayApplication'</Description>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'HttpUtilsTest.test'">
