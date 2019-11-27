@@ -350,7 +350,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1597</Count>
+          <Count>1598</Count>
         </Item>
       </Statistic>
       <Statistic Action="Disconnect">
@@ -1007,6 +1007,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'Carpa3Application'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'ConsoleApplication'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'ConsoleApplication'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'ConsumerApplication'">
