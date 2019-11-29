@@ -350,7 +350,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1634</Count>
+          <Count>1645</Count>
         </Item>
       </Statistic>
       <Statistic Action="Disconnect">
@@ -670,7 +670,7 @@
           <IdeaActionID>ChangesView.Revert</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Z'</ShortCut>
           <Description>Revert...</Description>
-          <Count>18</Count>
+          <Count>19</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -1382,7 +1382,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>731</Count>
+          <Count>732</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
@@ -1439,6 +1439,14 @@
           <ShortCut>'Ctrl+Alt+Shift+J'</ShortCut>
           <Description>编码规约扫描</Description>
           <Count>11</Count>
+        </Item>
+      </Statistic>
+    </option>
+    <option name="suppressed">
+      <Statistic Action="Reimport">
+        <Item>
+          <IdeaActionID>Maven.ReimportProject</IdeaActionID>
+          <Description>Reimport</Description>
         </Item>
       </Statistic>
     </option>
