@@ -46,7 +46,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Ctrl+K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>111</Count>
+          <Count>112</Count>
         </Item>
       </Statistic>
       <Statistic Action="Compare With...">
@@ -366,7 +366,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1773</Count>
+          <Count>1780</Count>
         </Item>
       </Statistic>
       <Statistic Action="Disconnect">
@@ -534,7 +534,7 @@
           <IdeaActionID>Vcs.Push</IdeaActionID>
           <ShortCut>'Ctrl+Shift+K'</ShortCut>
           <Description>Push...</Description>
-          <Count>87</Count>
+          <Count>88</Count>
         </Item>
       </Statistic>
       <Statistic Action="Remove">
@@ -953,6 +953,14 @@
           <Count>56</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'WebApplication'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'WebApplication'</Description>
+          <Count>8</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'WeiXinApplication'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -1361,12 +1369,20 @@
           <Count>60</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'WebApplication (1)'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'WebApplication (1)'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'WebApplication'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'WebApplication'</Description>
-          <Count>26</Count>
+          <Count>35</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'WeiXinApplication'">
