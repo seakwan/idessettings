@@ -46,7 +46,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Ctrl+K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>128</Count>
+          <Count>129</Count>
         </Item>
       </Statistic>
       <Statistic Action="Compare With...">
@@ -542,7 +542,7 @@
           <IdeaActionID>Vcs.Push</IdeaActionID>
           <ShortCut>'Ctrl+Shift+K'</ShortCut>
           <Description>Push...</Description>
-          <Count>100</Count>
+          <Count>101</Count>
         </Item>
       </Statistic>
       <Statistic Action="Remove">
