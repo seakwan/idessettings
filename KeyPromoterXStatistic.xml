@@ -22,7 +22,7 @@
           <IdeaActionID>CompileDirty</IdeaActionID>
           <ShortCut>'Ctrl+F9'</ShortCut>
           <Description>Build Project</Description>
-          <Count>175</Count>
+          <Count>178</Count>
         </Item>
       </Statistic>
       <Statistic Action="Close">
@@ -382,7 +382,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1918</Count>
+          <Count>1929</Count>
         </Item>
       </Statistic>
       <Statistic Action="Disconnect">
@@ -1017,6 +1017,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'getNumber()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'getNumber()'</Description>
+          <Count>10</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'instance()'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -1038,7 +1046,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+S'</ShortCut>
           <Description>Settings...</Description>
-          <Count>184</Count>
+          <Count>185</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Execution Point">
@@ -1542,7 +1550,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>767</Count>
+          <Count>769</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
