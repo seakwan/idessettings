@@ -1081,6 +1081,14 @@
           <Count>6</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'BaseLogisticTest.instance'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'BaseLogisticTest.instance'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'BaseLogisticTest.test'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
