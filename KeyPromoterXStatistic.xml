@@ -382,7 +382,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1955</Count>
+          <Count>1957</Count>
         </Item>
       </Statistic>
       <Statistic Action="Disconnect">
@@ -710,7 +710,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>1013</Count>
+          <Count>1014</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1462,7 +1462,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'WebApplicationTest.test'</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'WeiXinApplication'">
@@ -1550,7 +1550,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>769</Count>
+          <Count>770</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
@@ -1566,7 +1566,7 @@
           <IdeaActionID>Vcs.UpdateProject</IdeaActionID>
           <ShortCut>'Ctrl+T'</ShortCut>
           <Description>Update Project...</Description>
-          <Count>107</Count>
+          <Count>108</Count>
         </Item>
       </Statistic>
       <Statistic Action="VCS Operations Popup...">
