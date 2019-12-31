@@ -70,7 +70,7 @@
           <IdeaActionID>CopyReference</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+C'</ShortCut>
           <Description>Copy Reference</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Value">
@@ -382,7 +382,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1995</Count>
+          <Count>2012</Count>
         </Item>
       </Statistic>
       <Statistic Action="Disconnect">
@@ -638,7 +638,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'ConsumerApplication'</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'ExcelUtilsTest.test'">
@@ -782,7 +782,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'ConsumerApplication'</Description>
-          <Count>9</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Defgh'">
@@ -814,7 +814,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'EurekaApplication'</Description>
-          <Count>8</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'EurekaServerApplication'">
@@ -937,12 +937,20 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'Provider2Application'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'Provider2Application'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'ProviderApplication'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'ProviderApplication'</Description>
-          <Count>22</Count>
+          <Count>23</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'SQLite - h…b [console]'... ">
@@ -1550,7 +1558,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop...</Description>
-          <Count>32</Count>
+          <Count>34</Count>
         </Item>
       </Statistic>
       <Statistic Action="Structure">
