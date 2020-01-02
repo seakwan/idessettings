@@ -398,7 +398,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2078</Count>
+          <Count>2083</Count>
         </Item>
       </Statistic>
       <Statistic Action="Disconnect">
@@ -999,6 +999,14 @@
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'ProviderApplication'</Description>
           <Count>24</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'SHAUtilsTest'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'SHAUtilsTest'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'SQLite - h…b [console]'... ">
@@ -1782,7 +1790,7 @@
           <IdeaActionID>openAssertEqualsDiff</IdeaActionID>
           <ShortCut>'Ctrl+D'</ShortCut>
           <Description>View assertEquals Difference</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="编码规约扫描">
