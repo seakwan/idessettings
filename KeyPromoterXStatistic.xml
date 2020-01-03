@@ -398,7 +398,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2136</Count>
+          <Count>2137</Count>
         </Item>
       </Statistic>
       <Statistic Action="Disconnect">
@@ -663,6 +663,14 @@
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'ConsumerApplication'</Description>
           <Count>9</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'DbDataApplication'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'DbDataApplication'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'ExcelUtilsTest.test'">
