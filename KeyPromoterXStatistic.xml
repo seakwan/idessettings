@@ -398,7 +398,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2132</Count>
+          <Count>2134</Count>
         </Item>
       </Statistic>
       <Statistic Action="Disconnect">
@@ -1343,6 +1343,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'DateUtilsTest.test'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'DbDataApplication'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'DbDataApplication'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'DemoApplication'">
