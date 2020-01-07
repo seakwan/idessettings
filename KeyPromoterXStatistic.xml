@@ -422,7 +422,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2186</Count>
+          <Count>2193</Count>
         </Item>
       </Statistic>
       <Statistic Action="Disconnect">
@@ -822,7 +822,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'Application'</Description>
-          <Count>55</Count>
+          <Count>58</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'BaiChuanApplication'">
@@ -1041,6 +1041,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'PddServiceTest.test'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'PddServiceTest.test'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'Provider2Application'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -1254,7 +1262,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'Application'</Description>
-          <Count>38</Count>
+          <Count>42</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'BaiChuanApplication'">
@@ -1814,7 +1822,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>808</Count>
+          <Count>809</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
