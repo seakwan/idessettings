@@ -574,7 +574,7 @@
           <IdeaActionID>ShowProjectStructureSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+S'</ShortCut>
           <Description>Project Structure...</Description>
-          <Count>67</Count>
+          <Count>68</Count>
         </Item>
       </Statistic>
       <Statistic Action="Push...">
@@ -1774,7 +1774,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>145</Count>
+          <Count>146</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
