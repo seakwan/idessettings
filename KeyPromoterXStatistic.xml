@@ -401,6 +401,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'WebMainStart'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'WebMainStart'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'WeiXinApplication'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -822,7 +830,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'Application'</Description>
-          <Count>59</Count>
+          <Count>60</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'BaiChuanApplication'">
@@ -1137,6 +1145,14 @@
           <Count>14</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'WebMainStart'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'WebMainStart'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'WeiXinApplication'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -1214,7 +1230,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+S'</ShortCut>
           <Description>Settings...</Description>
-          <Count>189</Count>
+          <Count>190</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Execution Point">
@@ -1745,6 +1761,14 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'WebMainStart'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'WebMainStart'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'WeiXinApplication'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -1846,7 +1870,7 @@
           <IdeaActionID>Vcs.UpdateProject</IdeaActionID>
           <ShortCut>'Ctrl+T'</ShortCut>
           <Description>Update Project...</Description>
-          <Count>126</Count>
+          <Count>127</Count>
         </Item>
       </Statistic>
       <Statistic Action="VCS Operations Popup...">
@@ -1870,7 +1894,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9' or 'Alt+Shift+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>21</Count>
+          <Count>22</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
