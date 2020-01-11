@@ -22,7 +22,7 @@
           <IdeaActionID>CompileDirty</IdeaActionID>
           <ShortCut>'Ctrl+F9'</ShortCut>
           <Description>Build Project</Description>
-          <Count>198</Count>
+          <Count>202</Count>
         </Item>
       </Statistic>
       <Statistic Action="Change Signature...">
@@ -462,7 +462,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2327</Count>
+          <Count>2332</Count>
         </Item>
       </Statistic>
       <Statistic Action="Disconnect">
