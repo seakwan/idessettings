@@ -22,7 +22,7 @@
           <IdeaActionID>CompileDirty</IdeaActionID>
           <ShortCut>'Ctrl+F9'</ShortCut>
           <Description>Build Project</Description>
-          <Count>211</Count>
+          <Count>213</Count>
         </Item>
       </Statistic>
       <Statistic Action="Change Signature...">
@@ -94,7 +94,7 @@
           <IdeaActionID>XDebugger.CopyValue</IdeaActionID>
           <ShortCut>'Ctrl+C' or 'Ctrl+Insert'</ShortCut>
           <Description>Copy Value</Description>
-          <Count>130</Count>
+          <Count>133</Count>
         </Item>
       </Statistic>
       <Statistic Action="Cut">
@@ -118,7 +118,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'Alt+5'</ShortCut>
           <Description>Debug</Description>
-          <Count>36</Count>
+          <Count>37</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'AESUtilsTest.e'">
@@ -151,6 +151,14 @@
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'BaseLogisticTest.test'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'BestTemplateTest.getBillCodeCount'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'BestTemplateTest.getBillCodeCount'</Description>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'BreakPoint'">
@@ -462,7 +470,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2379</Count>
+          <Count>2417</Count>
         </Item>
       </Statistic>
       <Statistic Action="Disconnect">
@@ -846,7 +854,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>1037</Count>
+          <Count>1045</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1393,6 +1401,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'BestTemplateTest.getBillCodeCount'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'BestTemplateTest.getBillCodeCount'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'BreakPoint'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -1918,7 +1934,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>865</Count>
+          <Count>870</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
@@ -1934,7 +1950,7 @@
           <IdeaActionID>Vcs.UpdateProject</IdeaActionID>
           <ShortCut>'Ctrl+T'</ShortCut>
           <Description>Update Project...</Description>
-          <Count>138</Count>
+          <Count>139</Count>
         </Item>
       </Statistic>
       <Statistic Action="VCS Operations Popup...">
