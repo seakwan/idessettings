@@ -22,7 +22,7 @@
           <IdeaActionID>CompileDirty</IdeaActionID>
           <ShortCut>'Ctrl+F9'</ShortCut>
           <Description>Build Project</Description>
-          <Count>213</Count>
+          <Count>214</Count>
         </Item>
       </Statistic>
       <Statistic Action="Change Signature...">
@@ -62,7 +62,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Ctrl+K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>151</Count>
+          <Count>155</Count>
         </Item>
       </Statistic>
       <Statistic Action="Compare With...">
@@ -153,12 +153,20 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'BestTemplateTest.get'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'BestTemplateTest.get'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'BestTemplateTest.getBillCodeCount'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'BestTemplateTest.getBillCodeCount'</Description>
-          <Count>10</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'BreakPoint'">
@@ -470,7 +478,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2430</Count>
+          <Count>2483</Count>
         </Item>
       </Statistic>
       <Statistic Action="Disconnect">
@@ -854,7 +862,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>1064</Count>
+          <Count>1069</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1401,12 +1409,20 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'BestTemplateTest.get'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'BestTemplateTest.get'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'BestTemplateTest.getBillCodeCount'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'BestTemplateTest.getBillCodeCount'</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'BreakPoint'">
@@ -1926,7 +1942,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>148</Count>
+          <Count>149</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -1934,7 +1950,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>886</Count>
+          <Count>889</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
