@@ -62,7 +62,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Ctrl+K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>162</Count>
+          <Count>163</Count>
         </Item>
       </Statistic>
       <Statistic Action="Compare With...">
@@ -127,6 +127,14 @@
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'AESUtilsTest.e'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'ANEImplTest.GetFreigthNumbers'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'ANEImplTest.GetFreigthNumbers'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'Application (1)'">
@@ -486,7 +494,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2638</Count>
+          <Count>2645</Count>
         </Item>
       </Statistic>
       <Statistic Action="Disconnect">
@@ -670,7 +678,7 @@
           <IdeaActionID>Vcs.Push</IdeaActionID>
           <ShortCut>'Ctrl+Shift+K'</ShortCut>
           <Description>Push...</Description>
-          <Count>118</Count>
+          <Count>119</Count>
         </Item>
       </Statistic>
       <Statistic Action="Refresh">
@@ -2014,7 +2022,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>910</Count>
+          <Count>912</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
@@ -2030,7 +2038,7 @@
           <IdeaActionID>Vcs.UpdateProject</IdeaActionID>
           <ShortCut>'Ctrl+T'</ShortCut>
           <Description>Update Project...</Description>
-          <Count>157</Count>
+          <Count>159</Count>
         </Item>
       </Statistic>
       <Statistic Action="VCS Operations Popup...">
